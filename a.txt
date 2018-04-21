@@ -31,6 +31,10 @@ I love you and hate you.
 朝だよ―――――――――
 
 
-おやすみ！
+おすみ！
 
+<<<<<<< HEAD
 RE:
+=======
+Yeeeeeeeeeeeeeeah
+>>>>>>> 2f8416b50fe20e9196ab99b4e67f944064a219f6
